@@ -6,11 +6,11 @@ require_once __DIR__ . ('/../functions/auth.php');
 require_once __DIR__ . ('/../functions/redirect.php');
 require_once __DIR__ . ('/../functions/session.php');
 
-define('BASE_URL','http://localhost/dev/it34b_lab');
+define('BASE_URL','http://localhost/IT3b');
 
 
 define('DB_HOST','localhost');
-define('DB_NAME','it34b_lab');
+define('DB_NAME','IT3B');
 define('DB_USER','root');
 define('DB_PASS','');
 
